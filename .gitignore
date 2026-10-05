@@ -25,3 +25,7 @@ tasks_output.txt
 # OS
 Thumbs.db
 .DS_Store
+
+# Temp build logs
+compile_err.txt
+build_err.txt
