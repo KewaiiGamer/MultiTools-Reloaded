@@ -1,0 +1,47 @@
+{
+  "itemGroup.multitools.paxels": "Paxels",
+
+  "item.multitools.copper_paxel": "Copper Paxel",
+  "item.multitools.iron_paxel": "Iron Paxel",
+  "item.multitools.gold_paxel": "Gold Paxel",
+  "item.multitools.diamond_paxel": "Diamond Paxel",
+  "item.multitools.netherite_paxel": "Netherite Paxel",
+
+  "item.multitools.tin_paxel": "Tin Paxel",
+  "item.multitools.steel_paxel": "Steel Paxel",
+  "item.multitools.alumite_paxel": "Alumite Paxel",
+
+  "item.multitools.thaumium_paxel": "Thaumium Paxel",
+
+  "item.multitools.terrasteel_paxel": "Terrasteel Paxel",
+  "item.multitools.tic_andesite_paxel": "Andesite Paxel",
+  "item.multitools.tic_cobalt_paxel": "Cobalt Paxel",
+  "item.multitools.tic_nickel_paxel": "Nickel Paxel",
+  "item.multitools.tic_manyullyn_paxel": "Manyullyn Paxel",
+
+  "item.multitools.sg_amethyst_paxel": "Amethyst Paxel",
+  "item.multitools.sg_beryl_paxel": "Beryl Paxel",
+  "item.multitools.sg_copal_paxel": "Copal Paxel",
+  "item.multitools.sg_diamond_paxel": "Diamond Gem Paxel",
+  "item.multitools.sg_emerald_paxel": "Emerald Paxel",
+  "item.multitools.sg_garnet_paxel": "Garnet Paxel",
+  "item.multitools.sg_lapis_paxel": "Lapis Paxel",
+  "item.multitools.sg_rubite_paxel": "Rubite Paxel",
+  "item.multitools.sg_sapphire_paxel": "Sapphire Paxel",
+  "item.multitools.sg_topaz_paxel": "Topaz Paxel",
+  "item.multitools.sg_turquoise_paxel": "Turquoise Paxel",
+  "item.multitools.sg_amber_paxel": "Amber Paxel",
+  "item.multitools.sg_morganite_paxel": "Morganite Paxel",
+  "item.multitools.sg_alexandrite_paxel": "Alexandrite Paxel",
+  "item.multitools.sg_azure_paxel": "Azure Paxel",
+  "item.multitools.sg_aquamarine_paxel": "Aquamarine Paxel",
+  "item.multitools.sg_citrine_paxel": "Citrine Paxel",
+  "item.multitools.sg_iolite_paxel": "Iolite Paxel",
+  "item.multitools.sg_jasper_paxel": "Jasper Paxel",
+  "item.multitools.sg_onyx_paxel": "Onyx Paxel",
+  "item.multitools.sg_ruby_paxel": "Ruby Paxel",
+  "item.multitools.sg_spinels_paxel": "Spinel Paxel",
+  "item.multitools.sg_tiger_eye_paxel": "Tiger Eye Paxel",
+  "item.multitools.sg_undiane_paxel": "Undiane Paxel",
+  "item.multitools.sg_zircon_paxel": "Zircon Paxel"
+}

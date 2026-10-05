@@ -1,0 +1,27 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# Run
+run/
+run_client.bat
+runclient_output.txt
+runclient_err.txt
+build_output.txt
+build_errors.txt
+gen_output.txt
+tasks_output.txt
+
+# OS
+Thumbs.db
+.DS_Store
