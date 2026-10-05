@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "multitools:item/sg_amber_paxel"
+  }
+}
